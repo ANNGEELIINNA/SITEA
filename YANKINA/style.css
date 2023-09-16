@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-image: url(./img/image\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.header1{
+    padding-left: 200px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    padding-left: 50px;
+}
+li{
+    padding-right: 20px;
+    padding-top: 60px;
+    color: #ffffff;
+}
+nav{
+    display: flex;
+   
+    
+}
+h1{
+    padding-top: 70px;
+    color: #ffffff;
+}
+h2{
+    padding-top: 40px;
+    color: #ffffff;
+    font-size: 170px;
+}
+p{
+    color: #ffffff;
+    letter-spacing: 1px;
+}
